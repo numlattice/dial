@@ -1,0 +1,51 @@
+END USER LICENSE AGREEMENT (EULA)
+
+Software: dial
+
+Copyright: (c) 2026 Deepak Sharma. All rights reserved.
+
+This End User License Agreement ("Agreement") is a legal agreement between you
+("User") and Deepak Sharma ("Licensor") for the software binary provided
+herewith ("Software").
+
+1. Grant of License
+
+Subject to the terms of this Agreement, Licensor grants User a non-exclusive,
+non-transferable, royalty-free license to download, install, and execute the
+compiled binary version of the Software for both personal and commercial
+purposes.
+
+2. Restrictions
+
+User shall not, directly or indirectly:
+
+a. No Reverse Engineering: Decompile, disassemble, reverse engineer, or
+   otherwise attempt to derive the source code or underlying algorithms of the
+   Software.
+b. No Resale or Redistribution for Fee: Rent, lease, lend, sell, sublicense,
+   or distribute the Software for commercial gain or monetary charge without
+   explicit written permission from the Licensor.
+c. No Modification: Modify, adapt, translate, or create derivative works based
+   upon the Software.
+
+3. Ownership
+
+The Software is licensed, not sold. Licensor retains all right, title, and
+interest in and to the Software, including all copyrights, patents, trade
+secrets, trademarks, and other intellectual property rights.
+
+4. Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF OR INTO CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+5. Termination
+
+This License is effective until terminated. Your rights under this License will
+terminate automatically without notice if you fail to comply with any of its
+terms. Upon termination, you must cease all use of the Software and destroy all
+copies in your possession.
