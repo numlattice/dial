@@ -8,7 +8,7 @@ Command line app to split a trade CSV into a short-term file and a long-term fil
 
 ### Linux
 
-* Download [dial.AppImage](/numlattice/dial/releases/download/v1.0.0.0/dial.AppImage).
+* Download [dial.AppImage](https://github.com/numlattice/dial/releases/download/v1.0.0.0/dial.AppImage).
 * Make it executable - **Right-click→Properties→Allow executing file as program**, or by running `chmod +x dial.AppImage` in a terminal.
 * Run in terminal:
 
