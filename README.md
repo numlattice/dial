@@ -16,6 +16,17 @@ Command line app to split a trade CSV into a short-term file and a long-term fil
 ./dial.AppImage <input.csv> [--leap=clamp|roll]
 ```
 
+### Windows
+
+* Download [dial.zip](https://github.com/numlattice/dial/releases/download/v1.0.0.0_win/dial.zip).
+* Unzip and open terminal
+* Change directory to unzipped folder
+* Run in terminal:
+
+```bash
+dial.exe <path of input.csv> [--leap=clamp|roll]
+```
+
 ### Required columns
 
 `Entry Date`, `Exit Date`. The program stops with an error if either is missing. All other columns are ignored and carried through untouched.
