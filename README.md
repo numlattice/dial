@@ -1,6 +1,6 @@
 # dial (दीर्ध लघु) - Split gains into STCG & LTCG
 
-Command line app to splits a trade CSV into a short-term file and a long-term file, using the calendar anniversary of the entry date.
+Command line app to split a trade CSV into a short-term file and a long-term file, using the calendar anniversary of the entry date.
 
 ---
 
@@ -8,9 +8,9 @@ Command line app to splits a trade CSV into a short-term file and a long-term fi
 
 ### Linux
 
-* Download `dial.AppImage`.
+* Download [dial.AppImage](/numlattice/dial/releases/download/v1.0.0.0/dial.AppImage).
 * Make it executable - **Right-click→Properties→Allow executing file as program**, or by running `chmod +x dial.AppImage` in a terminal.
-* Run:
+* Run in terminal:
 
 ```bash
 ./dial.AppImage <input.csv> [--leap=clamp|roll]
